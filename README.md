@@ -1,4 +1,4 @@
-# S4HANA-Embedded-Analytics-1
+# S4HANA-Embedded-Analytics
 S4HANA embedded analytics using cds virtual data model
 
 <b>Prerequisite</b>
